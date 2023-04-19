@@ -3,4 +3,15 @@ body{
 }
 h1{
     font-family: 'Caveat', cursive;
+    color: white;
+}
+p{
+    color: white;
+}
+img{
+    border: 5px solid white;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
 }
