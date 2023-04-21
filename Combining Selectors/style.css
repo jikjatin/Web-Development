@@ -17,3 +17,7 @@ Selector1Selector2Selector3... rule only apply if all condition true*/
 li.done{
     color: seagreen;
 }
+/*Combining different selectors*/
+ul p.done{
+    font-size: 0.8rem;
+}
