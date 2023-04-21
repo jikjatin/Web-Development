@@ -1,20 +1,19 @@
-/* Don't change the existing CSS. */
-
 .box {
   background-color: blue;
   padding: 10px;
 }
-
 p {
   color: yellow;
   margin: 0;
   padding: 0;
 }
+/* Don't change the above CSS and html file also. */
 #outer-box{
-  background-color: blueviolet;
+  background-color: purple;
 }
 .white-text{
   color: white;
+}
+.inner-box{
   background-color: red;
-  padding: 10px;
 }
