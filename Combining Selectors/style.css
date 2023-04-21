@@ -12,3 +12,8 @@ h1,h2{
 .box li{
     color: blue;
 }
+/* Chaining of selectors
+Selector1Selector2Selector3... rule only apply if all condition true*/
+li.done{
+    color: seagreen;
+}
