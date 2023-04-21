@@ -1,0 +1,14 @@
+/* Combining CSS selectors: */
+/* Grouping selectors */
+h1,h2{
+    color: blueviolet;
+}
+/* parent > child (immediate element/class/id etc) */
+.box > p{
+   color: firebrick;
+}
+             /* Ancestor/parent descendant/child descendant ...
+ Descendant Selector (Selector1 selector2 selector3 ....) */
+.box li{
+    color: blue;
+}
